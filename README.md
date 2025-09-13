@@ -3,7 +3,6 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.79.1-blue.svg)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-53.0.0-black.svg)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg)](https://www.typescriptlang.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 An immersive mobile application that brings India's rich cultural heritage to life through Augmented Reality (AR) technology. Explore iconic monuments, learn through interactive quizzes, and experience history like never before.
 
@@ -91,12 +90,6 @@ npm run build:web
 eas build --platform ios
 eas build --platform android
 ```
-
-## 📱 Screenshots
-
-| Home Screen | Heritage Sites | AR Experience | Quiz |
-|-------------|----------------|---------------|------|
-| ![Home](screenshots/home.png) | ![Heritage](screenshots/heritage.png) | ![AR](screenshots/ar.png) | ![Quiz](screenshots/quiz.png) |
 
 ## 🛠️ Technology Stack
 
@@ -187,10 +180,6 @@ We welcome contributions to Heritage AR! Please follow these steps:
 - Test on both iOS and Android platforms
 - Ensure accessibility compliance
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Indian Archaeological Survey**: For heritage site information and inspiration
@@ -200,9 +189,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **GitHub Issues**: [Report bugs or request features](https://github.com/yourusername/heritage-ar/issues)
-- **Email**: your.email@example.com
-- **Documentation**: [Wiki](https://github.com/yourusername/heritage-ar/wiki)
+- **GitHub Issues**: [Report bugs or request features](https://github.com/Ajayrx/heritage-ar/issues)
+- **Email**: ajay0i0know@gmail.com
 
 ---
 
